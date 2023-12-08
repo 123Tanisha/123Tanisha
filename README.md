@@ -1,24 +1,8 @@
-### Hi there, I'm Tanisha! 👋
-
-<!--
-**123Tanisha/123Tanisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, I'm Tanisha Chopra! 👋
 
 ![MasterHead](https://namespace.so/blog-images/namespace-github-runners/banner.png)
  
-<h1 align="center">Hi 👋, I'm Tanisha Chopra</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm a passionate Engineer from India👋</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123tanisha&label=Profile%20views&color=0e75b6&style=flat" alt="123tanisha" /> </p>
