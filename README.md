@@ -14,9 +14,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123tanisha" alt="123tanisha" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="left">
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/TanishaDhirajChopra/">
+  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+   <a style="margin-left: 10px;" target="_blank" href="https://github.com/123Tanisha/">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+ </div>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=123tanisha&show_icons=true&locale=en&layout=compact" alt="123tanisha" /></p>
