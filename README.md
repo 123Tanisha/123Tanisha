@@ -1,15 +1,21 @@
-### Hi there, I'm Tanisha Chopra! 👋
+### Hi there, I'm Tanisha Chopra!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ![MasterHead](https://namespace.so/blog-images/namespace-github-runners/banner.png)
- 
-<h1 align="center">Hi 👋, I'm a passionate Engineer from India👋</h1>
+
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Passionat+Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+<h1></h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123tanisha&label=Profile%20views&color=0e75b6&style=flat" alt="123tanisha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123tanisha" alt="123tanisha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
