@@ -3,7 +3,7 @@
 ![MasterHead](https://github.com/123Tanisha/123Tanisha/blob/main/git.gif)
 
  <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Passionat+Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Passionat+Computer+Science+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <h1></h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
