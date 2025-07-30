@@ -1,6 +1,6 @@
 ### Hi there, I'm Tanisha Chopra!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" >
 
-![MasterHead](https://camo.githubusercontent.com/18164139dc09e94a64895db627938c931a5aaa359a9a57b4a61ce77a58330990/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
+![MasterHead](https://github.com/123Tanisha/123Tanisha/blob/main/git.gif)
 
  <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Passionat+Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
